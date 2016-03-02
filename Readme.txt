@@ -1,4 +1,4 @@
-Unsupervised Learning for Accoustic Data/Monorail Source Seperation 
+Unsupervised Learning for Accoustic Data Modeling/Monaural Source Seperation 
 
 AE: Contracting Autoencoder, Denoised Autoencoder
 VAE: Variational Autoencoder
